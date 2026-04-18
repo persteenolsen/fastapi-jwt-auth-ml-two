@@ -19,6 +19,10 @@ app = FastAPI(
     title="FastAPI + JWT + ML (v2)",
     description="18-04-2026 - House Price Prediction API with ML pipeline + JWT auth.",
     version="2.0.2",
+    contact={
+        "name": "Per Olsen",
+        "url": "https://persteenolsen.netlify.app",
+    },
 )
 
 # -----------------------------
