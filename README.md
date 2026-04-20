@@ -159,7 +159,7 @@ Response:
 
 ---
 
-## 📈 What this project teaches
+## 📈 What this project demonstrates
 
 - ML pipelines (not just scripts)
 - REST API design for ML systems
