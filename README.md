@@ -2,7 +2,7 @@
 
 Last updated:
 
-- 18-04-2026
+- 20-04-2026
 
 A simple but production-style Machine Learning API built with FastAPI, JWT authentication, and a scikit-learn pipeline model.
 
